@@ -17,25 +17,31 @@
   <img src="gitimg/logo.jpg" alt="Image Description" width="200">
   
 </div>
-   Flutter Notes App with Firebase is your go-to for easy note-taking. It lets you log in securely and keeps your notes updated in real-time across all your devices. Creating and managing notes is a breeze. This app combines simplicity with security, making note-taking a smooth and worry-free experience. Try it out now and level up your note-taking game!
+  Job Portal App: Discover job opportunities, apply seamlessly using our Flutter and Firebase-powered platform for efficient job hunting and recruitment.
 
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between;">
-   <img src="gitimg/1.jpg" width="200">
-   <img src="gitimg/2.jpg" width="200">
-   <img src="img/ak3.jpg" width="200">
-   <img src="img/ak4.jpg" width="200">
-   <img src="img/ak5.jpg" width="200">
-   <img src="img/ak6.jpg" width="200">
-   <img src="img/ak7.jpg" width="200">
-   <img src="img/ak8.jpg" width="200">
-   <img src="img/ak9.jpg" width="200">
-   <img src="img/ak10.jpg" width="200">
-   <img src="img/ak11.jpg" width="200">
-   <img src="img/ak12.jpg" width="200">
-   <img src="img/ak13.jpg" width="200">
-   <img src="img/ak14.jpg" width="200">
+ <img src="gitimg/1.jpg" width="200">
+    <img src="gitimg/2.jpg" width="200">
+    <img src="gitimg/3.jpg" width="200">
+    <img src="gitimg/4.jpg" width="200">
+    <img src="gitimg/5.jpg" width="200">
+    <img src="gitimg/6.jpg" width="200">
+    <img src="gitimg/7.jpg" width="200">
+    <img src="gitimg/8.jpg" width="200">
+    <img src="gitimg/9.jpg" width="200">
+    <img src="gitimg/10.jpg" width="200">
+    <img src="gitimg/11.jpg" width="200">
+    <img src="gitimg/12.jpg" width="200">
+    <img src="gitimg/13.jpg" width="200">
+    <img src="gitimg/14.jpg" width="200">
+    <img src="gitimg/15.jpg" width="200">
+    <img src="gitimg/16.jpg" width="200">
+    <img src="gitimg/17.jpg" width="200">
+    <img src="gitimg/18.jpg" width="200">
+    <img src="gitimg/19.jpg" width="200">
+    <img src="gitimg/20.jpg" width="200">
 </div>
 
 ## Prerequisites
